@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Experienced Data Scientist fresh out of university and looking for my first oportunity</p>
+<p>Experienced Data Scientist fresh out of university and looking for my first opportunity</p>
 
 <h2>Skills</h2>
 
