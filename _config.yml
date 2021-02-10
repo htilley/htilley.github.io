@@ -13,7 +13,7 @@ picture: assets/images/circle-cropped.png?raw=true
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
-resume-external: true
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://htilley.github.io
@@ -30,36 +30,34 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  shortname:  # enter this from your disqus account
+  categories:  # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-#twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/harrison-tilley/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/htilley
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: harrytilley1@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
+    name: Harrison Tilley
     bio: A Man who travels the world eating noodles
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-
+    picture: assets/images/circle-cropped.png?raw=true
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
